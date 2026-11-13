@@ -1,0 +1,8 @@
+GH_USER="AxmedoEthiopia"
+REPO="gobez"
+
+git init -b main
+git add -A
+git commit -m "ጎበዝ! GOBEZ — Amharic typing arcade"
+git remote add origin "https://github.com/$GH_USER/$REPO.git"
+git push -u origin main
